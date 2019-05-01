@@ -1,4 +1,5 @@
-﻿using Practice.HR;
+﻿using System;
+using Practice.HR;
 
 namespace Practice
 {
@@ -31,6 +32,6 @@ namespace Practice
             /*
              * TODO #9: При помощи отладчика проверить типы и структуру объектов, адресованных переменными client и employee.
              */
-        }
+        } 
     }
 }

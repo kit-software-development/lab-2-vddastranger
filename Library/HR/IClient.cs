@@ -26,7 +26,7 @@ namespace Practice.HR
         /// <returns>
         ///     Текущий экземпляр "Строителя".
         /// </returns>
-        IClientBuilder Name(IName name);
+        
 
         /// <summary>
         ///     Настраивает значение имени для будущего экземпляра типа IClient.

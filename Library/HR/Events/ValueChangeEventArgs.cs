@@ -23,8 +23,8 @@ namespace Practice.HR.Events
         ///     Значение свойства до изменения.
         /// </param>
         public ValueChangeEventArgs(T oldValue)
-        {
-            OldValue = oldValue;
-        }
+                 {
+                     OldValue = oldValue;
+                 }
     }
 }
